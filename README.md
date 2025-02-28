@@ -58,7 +58,7 @@ git clone https://github.com/SauravhXyzz/FILE.git
 Move into the INSTA project directory:
 
 ```sh
-cd instaxyZ
+cd SauravhXyzz
 ```
 
 ### Step 4: Execute the Main Script
@@ -66,7 +66,7 @@ cd instaxyZ
 Run the main Python script to start the application:
 
 ```sh
-python xyZ.py
+python 
 ```
 
 ---
