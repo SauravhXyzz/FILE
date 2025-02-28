@@ -66,7 +66,7 @@ cd SauravhXyzz
 Run the main Python script to start the application:
 
 ```sh
-python 
+python3 SauravhXyzz.py
 ```
 
 ---
